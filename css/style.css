@@ -267,7 +267,8 @@ top: 30px;
     }
     .left-aria{
         width: 75%;
-        margin: 15%;
+        margin: 10px auto;
+
         
         flex: 1;
     }
@@ -275,6 +276,7 @@ top: 30px;
         width: 80%;
         margin: 20%;
         flex: 1;
+        margin: 2px auto;
         display: flex;
         justify-content: center;
     }
@@ -294,6 +296,9 @@ top: 30px;
         margin: 5% auto;
 
     }
+    .button{
+        display: flex;
+    }
     .login-aria-1{
         margin: 5%;
         width: 90%;
@@ -304,7 +309,8 @@ top: 30px;
     }
     .login-aria input{
         align-items: center;
-        margin-right: ;
+        width: 70%;
+        margin-right: 30px;
     }
 
 }
